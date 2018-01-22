@@ -15,3 +15,5 @@ python-
 3.[python制作gif迷宫图](https://github.com/Wuxuewendao/python-/tree/master/python%E5%88%B6%E4%BD%9Cgif)
 
 4.[必应壁纸爬虫](https://github.com/Wuxuewendao/wd-python/tree/master/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8%E7%88%AC%E8%99%AB)
+
+4.[斗图啦爬虫](https://github.com/Wuxuewendao/wd-python/tree/master/%E6%96%97%E5%9B%BE%E5%95%A6)
